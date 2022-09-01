@@ -1,9 +1,6 @@
 <p align="center">
     <h1 align="center">Stanley Zhao🚀</h1>
 </p>
-
-___
-
 <%- await embed(`base`, {base:"activity, community, repositories"}) %>
 
 ___
@@ -17,5 +14,3 @@ ___
 ___
 
 <%- await embed(`achievements`, { achievements: true, achievements_secrets: true, achievements_threshold: "C" }) %>
-
-___
