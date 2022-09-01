@@ -1,6 +1,5 @@
-<p align="center">
+
     <h1 align="center">Stanley Zhao🚀</h1>
-</p>
 
 
 ___
