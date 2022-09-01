@@ -15,5 +15,3 @@ ___
 ___
 
 <img src="https://github.com/zhao-stanley/zhao-stanley/blob/main/.cache/achievements.svg">
-
-___
