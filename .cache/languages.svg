@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="862.5314231559432" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="862.5314231559432" y="0" width="29.36646398125794" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="891.8978871372012" y="0" width="14.687474779617087" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="906.5853619168183" y="0" width="13.414638083181723" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="861.6264389328143" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="861.6264389328143" y="0" width="29.33565213385315" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="890.9620910666674" y="0" width="15.637345741219558" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="906.5994368078871" y="0" width="13.400563192113006" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>813 kB</div>
-                                <div>93.75%</div>
+                                <div>93.66%</div>
                             </small>
                         </div>
                     </section>
@@ -64,8 +64,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>13.8 kB</div>
-                                <div>1.6%</div>
+                                <div>14.7 kB</div>
+                                <div>1.7%</div>
                             </small>
                         </div>
                     </section>
