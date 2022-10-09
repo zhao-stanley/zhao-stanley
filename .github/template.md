@@ -1,7 +1,7 @@
 <p align="center">
     <h1 align="center">Stanley Zhao🚀</h1>
 </p>
-<%- await embed(`base`, {base:"activity, community, repositories"}) %>
+<%- await embed(`base`, {base:"activity, community, repositories", repositories: true}) %>
 
 ___
 
